@@ -1,0 +1,7 @@
+/Output
+.DS_Store
+/build
+/.build
+/.swiftpm
+/*.xcodeproj
+.publish
